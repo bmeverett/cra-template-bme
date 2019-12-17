@@ -1,5 +1,7 @@
 # cra-template-sds
 
+Extends the cra-template-typescript confgiuration to add Prettier, ESLint, Husky, and Lint Staged support
+
 To use this template, add `--template cra-template-sds` when creating a new app.
 
 For example:
