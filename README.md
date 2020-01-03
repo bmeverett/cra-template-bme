@@ -7,11 +7,11 @@ To use this template, add `--template cra-template-sds` when creating a new app.
 For example:
 
 ```sh
-npx create-react-app my-app --template typescript
+npx create-react-app my-app --template cra-template-sds
 
 # or
 
-yarn create react-app my-app --template typescript
+yarn create react-app my-app --template cra-template-sds
 ```
 
 For more information, please refer to:
