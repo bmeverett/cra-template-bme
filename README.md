@@ -1,17 +1,17 @@
-# cra-template-sds
+# cra-template-bme
 
-Extends the cra-template-typescript confgiuration to add Prettier, ESLint, Husky, and Lint Staged support
+Extends the cra-template-typescript configuration to add Prettier, ESLint, Husky, and Lint Staged support
 
-To use this template, add `--template cra-template-sds` when creating a new app.
+To use this template, add `--template cra-template-bme` when creating a new app.
 
 For example:
 
 ```sh
-npx create-react-app my-app --template cra-template-sds
+npx create-react-app my-app --template cra-template-bme
 
 # or
 
-yarn create react-app my-app --template cra-template-sds
+yarn create react-app my-app --template cra-template-bme
 ```
 
 For more information, please refer to:
